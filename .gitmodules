@@ -1,0 +1,6 @@
+[submodule "OpticsBenchmark"]
+	path = OpticsBenchmark
+	url = git@github.com:ywzhang909/OpticsBenchmark.git
+[submodule "optical_agent"]
+	path = optical_agent
+	url = git@github.com:ywzhang909/optical_agent.git
